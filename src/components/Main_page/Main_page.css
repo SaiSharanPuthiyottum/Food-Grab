@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.navbar {
+  background-color: skyblue;
+
+  box-shadow: inset 0 0 100px hsla(0, 0%, 0%, 0.3);
+  display: flex;
+  padding: 0.5em;
+}
+.heading {
+  margin: 0 0 0 30px;
+  font-family: "Courier New", Courier, monospace;
+}
+.cart {
+  background-color: skyblue;
+  padding: 0.6em;
+
+  border-radius: 8px;
+
+  position: relative;
+  margin-left: 1150px;
+  border: 1px solid black;
+  text-decoration: none;
+  color: black;
+  font-family: monospace;
+}
+.cart:hover {
+  outline-color: transparent;
+  outline-style: solid;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.shop_btn {
+  background-color: skyblue;
+  padding: 0.4em;
+  border-radius: 8px;
+  position: relative;
+  width: 100%;
+
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+}
+.shop_btn:hover {
+  outline-color: transparent;
+  outline-style: solid;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.order_now_btn {
+  background-color: skyblue;
+  padding: 0.3em;
+  border-radius: 5px;
+  position: relative;
+  width: 100%;
+  margin: 5px;
+
+  text-decoration: none;
+  color: black;
+
+  display: inline-block;
+}
+.buynoorder_now_btn_btn:hover {
+  outline-color: transparent;
+  outline-style: solid;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.addToCart_btn {
+  background-color: skyblue;
+  padding: 0.3em;
+  border-radius: 5px;
+  position: relative;
+  width: 100%;
+  margin: 5px;
+  font-size: 16.5px;
+
+  text-decoration: none;
+  color: black;
+  border: none;
+
+  display: inline-block;
+  font-family: "Courier New", Courier, monospace;
+}
+.addToCart_btn:hover {
+  outline-color: transparent;
+  outline-style: solid;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.category_heading {
+  margin: 0 0 20px 0;
+  padding: 20px 0 0 0;
+  font-family: monospace;
+}
+.box-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  align-items: center;
+  margin: 0.5rem;
+  justify-content: center;
+
+  text-align: center;
+  padding: 0.8rem 1rem;
+  border: 0.1rem skyblue;
+  border-radius: 0.5rem;
+  width: 340px;
+  height: 360px;
+  overflow: hidden;
+  position: relative;
+  background: white;
+  border: 3px skyblue;
+  font-family: "Courier New", Courier, monospace;
+}
+.box img {
+  width: 250px;
+  height: 150px;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.box h2 {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.box p {
+  margin-top: 1px;
+  margin-bottom: 13px;
+}
+.fooditembox {
+  margin: 0.5rem;
+
+  padding: 0.8rem 1.8rem;
+  border: 0.1rem skyblue;
+  border-radius: 0.5rem;
+
+  display: inline-block;
+  background: white;
+  width: 1070px;
+  border: 3px skyblue;
+}
+.fooditemblock {
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+}
+.fooditembox-container {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.fooditems .fooditembox-container .fooditembox .discount {
+  text-decoration: none;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+
+  background: skyblue;
+  padding: 0.7rem 1rem;
+  font-size: 2rem;
+}
+.fooditembox img {
+  position: relative;
+  margin-left: -16px;
+  margin-top: 3.3px;
+  height: 250px;
+  width: 250px;
+  margin-right: 40px;
+}
+.fooditemdetailspart {
+  margin-left: 10px;
+  width: 250px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.fooditemdetailspart h3 {
+  margin: 5px;
+}
+.fooditemdetailspart .price span {
+  font-size: 0.9rem;
+  color: #999;
+  text-decoration: line-through;
+}
+.stars {
+  padding: 0 60px;
+}
+.cartitemscount {
+  margin-left: 3px;
+
+  border-radius: 5px;
+  background: grey;
+  border-radius: 5px;
+}
+.discount {
+  margin-left: 230px;
+}

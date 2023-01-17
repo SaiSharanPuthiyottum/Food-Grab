@@ -1,0 +1,58 @@
+.cartItems{ 
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.bill{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.buynow_btn2{
+    background-color: skyblue;
+    padding: 0.3em;
+    border-radius:5px;
+    position: relative;
+    width:1070px;
+    margin:5px; 
+    font-size:25px;
+    /* margin-left: 1250px; */
+    text-decoration: none;
+    color: black;
+    /* border: 3px solid black; */
+    display: block;
+}
+.buynow_btn2:hover{ 
+    outline-color: transparent;
+    outline-style:solid;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}  
+.empty-btn{
+    background-color: skyblue;
+    padding: 0.3em;
+    border-radius:5px;
+    position: relative;
+    margin-left: 1150px;
+    border: 3px solid black;
+    text-decoration: none;
+    color: black;
+}
+.empty-btn:hover{ 
+    outline-color: transparent;
+    outline-style:solid;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.dishes_cart{
+    font-family: 'Courier New', Courier, monospace;
+}
+

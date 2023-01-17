@@ -1,0 +1,22 @@
+.button_2{
+    background-color: skyblue;
+    padding: 0.4em;
+    border-radius:5px;
+    position: relative;
+    width: 50%;    
+    /* margin-left: 1250px; */
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.button_2:hover{ 
+    outline-color: transparent;
+    outline-style:solid;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.payment_page{
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}

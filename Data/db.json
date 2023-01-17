@@ -1,0 +1,283 @@
+{
+  "food_items": [
+    {
+      "_id": 1,
+      "category": "tiffins",
+      "name": "Dosa",
+      "mrp": 40,
+      "price": 30,
+
+      "img": "/Images/tiffins/dosa1.png"
+    },
+    {
+      "_id": 2,
+      "category": "tiffins",
+      "name": "Idly",
+      "mrp": 45,
+      "price": 35,
+
+      "img": "/Images/tiffins/idli1.png"
+    },
+    {
+      "_id": 3,
+      "category": "tiffins",
+      "name": "Vada",
+      "mrp": 30,
+      "price": 25,
+
+      "img": "/Images/tiffins/vada1.png"
+    },
+    {
+      "_id": 4,
+      "category": "tiffins",
+      "name": "Bonda",
+      "mrp": 35,
+      "price": 30,
+
+      "img": "/Images/tiffins/bonda1.png"
+    },
+    {
+      "_id": 5,
+      "category": "tiffins",
+      "name": "Upma",
+      "mrp": 50,
+      "price": 40,
+
+      "img": "/Images/tiffins/upma1.png"
+    },
+    {
+      "_id": 6,
+      "category": "tiffins",
+      "name": "Poori",
+      "mrp": 40,
+      "price": 20,
+
+      "img": "/Images/tiffins/puri1.png"
+    },
+    {
+      "_id": 7,
+      "category": "tiffins",
+      "name": "Uthappam",
+      "mrp": 35,
+      "price": 20,
+
+      "img": "/Images/tiffins/uttapam1.png"
+    },
+    {
+      "_id": 8,
+      "category": "tiffins",
+      "name": "Pesarattu",
+      "mrp": 25,
+      "price": 20,
+
+      "img": "/Images/tiffins/pesarattu1.png"
+    },
+    {
+      "_id": 9,
+      "category": "tiffins",
+      "name": "Rava dosa",
+      "mrp": 35,
+      "price": 20,
+
+      "img": "/Images/tiffins/ravadosa1.png"
+    },
+    {
+      "_id": 10,
+      "category": "tiffins",
+      "name": "Punugulu",
+      "mrp": 20,
+      "price": 15,
+
+      "img": "/Images/tiffins/punugulu1.png"
+    },
+    {
+      "_id": 11,
+      "category": "tiffins",
+      "name": "Chapathi",
+      "mrp": 35,
+      "price": 25,
+
+      "img": "/Images/tiffins/chapatti1.png"
+    },
+    {
+      "_id": 12,
+      "category": "veg meals",
+      "name": "Veg Dum Biriyani",
+      "mrp": 300,
+      "price": 250,
+
+      "img": "/Images/veg_meals/vegbiriyani1.png"
+    },
+    {
+      "_id": 13,
+      "category": "veg meals",
+      "name": "Tomato Rice",
+      "mrp": 250,
+      "price": 180,
+
+      "img": "/Images/veg_meals/tomatorice1.jpeg"
+    },
+    {
+      "_id": 14,
+      "category": "veg meals",
+      "name": "Jeera Rice",
+      "mrp": 250,
+      "price": 180,
+
+      "img": "/Images/veg_meals/jeerarice1.jpeg"
+    },
+    {
+      "_id": 15,
+      "category": "veg meals",
+      "name": "Khichdi",
+      "mrp": 250,
+      "price": 180,
+
+      "img": "/Images/veg_meals/kichidi1.jpeg"
+    },
+    {
+      "_id": 16,
+      "category": "veg meals",
+      "name": "Mushroom Biriyani",
+      "mrp": 300,
+      "price": 250,
+
+      "img": "/Images/veg_meals/mushroombiriyani1.jpeg"
+    },
+    {
+      "_id": 17,
+      "category": "veg meals",
+      "name": "Veg Pulao",
+      "mrp": 280,
+      "price": 220,
+
+      "img": "/Images/veg_meals/vegpulao.jpeg"
+    },
+    {
+      "_id": 18,
+      "category": "veg meals",
+      "name": "Peas Pulao",
+      "mrp": 250,
+      "price": 180,
+
+      "img": "/Images/veg_meals/peaspulao.jpeg"
+    },
+    {
+      "_id": 19,
+      "category": "veg meals",
+      "name": "Veg Fried Rice",
+      "mrp": 300,
+      "price": 220,
+      "description": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as vegetables or seafood. It is often eaten by itself or as an accompaniment to another dish.",
+      "img": "/Images/veg_meals/friedrice1.jpeg"
+    },
+    {
+      "_id": 20,
+      "category": "veg meals",
+      "name": "Paneer Biriyani",
+      "mrp": 350,
+      "price": 300,
+
+      "img": "/Images/veg_meals/paneerbiriyani.jpeg"
+    },
+    {
+      "_id": 21,
+      "category": "veg meals",
+      "name": "Curd Rice",
+      "mrp": 150,
+      "price": 100,
+
+      "img": "/Images/veg_meals/curdrice1.jpeg"
+    },
+    {
+      "_id": 22,
+      "category": "non-veg meals",
+      "name": "Chicken Fried Rice",
+      "mrp": 350,
+      "price": 330,
+
+      "img": "/Images/non_veg_meals/chickenbiriyani1.jpeg"
+    },
+    {
+      "_id": 23,
+      "category": "non-veg meals",
+      "name": "Hyderabadi Mutton Biriyani",
+      "mrp": 450,
+      "price": 400,
+
+      "img": "/Images/non_veg_meals/muttonbiriyani1jpeg.jpeg"
+    },
+    {
+      "_id": 24,
+      "category": "non-veg meals",
+      "name": "Egg Biriyani",
+      "mrp": 300,
+      "price": 280,
+
+      "img": "/Images/non_veg_meals/eggbiriyani.jpeg"
+    },
+    {
+      "_id": 25,
+      "category": "non-veg meals",
+      "name": "Non Veg Combo",
+      "mrp": 380,
+      "price": 350,
+
+      "img": "/Images/non_veg_meals/nonvegcombo.jpeg"
+    },
+    {
+      "_id": 26,
+      "category": "non-veg meals",
+      "name": "Mexicon Chicken Biriyani",
+      "mrp": 300,
+      "price": 280,
+
+      "img": "/Images/non_veg_meals/mexican.jpeg"
+    },
+    {
+      "_id": 27,
+      "category": "non-veg meals",
+      "name": "Andhra Mutton Curry",
+      "mrp": 350,
+      "price": 330,
+
+      "img": "/Images/non_veg_meals/muttoncurry.jpeg"
+    },
+    {
+      "_id": 28,
+      "category": "non-veg meals",
+      "name": "Fish Fry",
+      "mrp": 400,
+      "price": 350,
+
+      "img": "/Images/non_veg_meals/fishfry.jpeg"
+    },
+    {
+      "_id": 29,
+      "category": "non-veg meals",
+      "name": "Fish Biriyani",
+      "mrp": 380,
+      "price": 350,
+
+      "img": "/Images/non_veg_meals/fish.jpeg"
+    },
+    {
+      "_id": 30,
+      "category": "non-veg meals",
+      "name": "Prawn Fried Rice",
+      "mrp": 450,
+      "price": 400,
+
+      "img": "/Images/non_veg_meals/prawn.jpeg"
+    },
+    {
+      "_id": 31,
+      "category": "non-veg meals",
+      "name": "Pot Chicken Biriyani",
+      "mrp": 350,
+      "price": 330,
+
+      "img": "/Images/non_veg_meals/pot.jpeg"
+    }
+  ]
+}
