@@ -1,4 +1,4 @@
-# Food-Grab
+# Food-Grab ( A Food Delivery App)
 
 This App is about Food Delivery to the Customers using React Concepts.
 The App Fulfills all the Requirements given i.e
